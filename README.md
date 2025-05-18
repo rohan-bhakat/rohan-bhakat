@@ -1,7 +1,7 @@
 
 <!-- This is a hidden comment in README.md , ### Hi there 👋-->
 
-## 💫 About Me:
+# 💫 About Me:
 Hi there! I'm **Rohan Bhakat** 👋  
 🎓 Final Year B.Tech (CSE) student | 👨‍💻 Aspiring Full Stack Developer skilled in Django, Python & Java | 🤖 Passionate about AI/ML | 🚀 Open to Web Dev & Real-World Project Opportunities
 

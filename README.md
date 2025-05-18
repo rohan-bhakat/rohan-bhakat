@@ -9,13 +9,13 @@ A passionate developer currently pursuing my B.Tech in Computer Science Engineer
 
 📧 **E-mail:** rohanbhakat91@gmail.com
 
----
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-bhakat/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/roha18561)
 
----
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -31,23 +31,23 @@ A passionate developer currently pursuing my B.Tech in Computer Science Engineer
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%23000000.svg?style=flat&logo=windows-terminal&logoColor=white)
 
----
+
 
 ### 📊 GitHub Stats:
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-bhakat&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-bhakat&layout=compact&theme=tokyonight)
 
----
+
 
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohan-bhakat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+
 
 ### 🔝 Top Contributed Repo:
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=rohan-bhakat&limit=1&theme=tokyonight)](https://github.com/rohan-bhakat)
 
----
 
-### 😊 Happy Coding !!
+
+## 😊 Happy Coding !!
 
